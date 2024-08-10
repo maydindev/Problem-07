@@ -37,8 +37,8 @@ export default function App() {
       />
       <Avatar
         profileText="Profile bakın"
-        name="Tom Cook"
-        imageSrc="/photo.png"
+        name="Namık Korona"
+        imageSrc="/indir.jpeg"
       />
     </>
   );
